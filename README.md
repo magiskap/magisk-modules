@@ -37,8 +37,3 @@ Join thousands of users and developers in shaping the future of Android customiz
 ---
 *Are you a developer? Head over to our website to upload and share your latest modules with a massive audience!*
 """
-
-with open("Magisk_Module_GitHub_SEO.md", "w", encoding="utf-8") as f:
-    f.write(readme_v2)
-
-print("Magisk_Module_GitHub_SEO.md")
